@@ -1,0 +1,19 @@
+name: article_reader_app
+description: A new Flutter project for Homework 4.
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
